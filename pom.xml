@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>f0280dae-3bd2-4d24-b347-3fde9546ba11</groupId>
-  <artifactId>fnd_diy_3-2_customer-service-accounts-archetype</artifactId>
+  <artifactId>api-template-ch1-archetype</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
-  <name>fnd_diy_3-2_customer-service-accounts-archetype</name>
+  <name>api-template-ch1-archetype</name>
 
   <build>
     <extensions>
