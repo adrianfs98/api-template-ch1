@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
   "minMuleVersion": "4.3.0"
+=======
+  "minMuleVersion": "4.4.0"
+>>>>>>> a0053995630402bca01e6d7521b1918748acc2b1
 }
