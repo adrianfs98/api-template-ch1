@@ -43,6 +43,7 @@
     <fileSet encoding="UTF-8">
       <directory></directory>
       <includes>
+        <include>.gitignore</include>
         <include>mule-artifact.json</include>
       </includes>
     </fileSet>
