@@ -3,6 +3,7 @@
 #set( $symbol_escape = '\' )
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/${package}/test-archetype-api/1.0.0"/>
 	<classpathentry kind="con" path="MULE_LIB/org.mule.connectors/mule-wsc-connector/1.6.10"/>
 	<classpathentry kind="con" path="MULE_LIB/9d63be6d-df6f-4454-9d95-5c5a7f3fa07c/mule-plugin-diy-accounts-api/1.0.0"/>
 	<classpathentry kind="con" path="MULE_LIB/org.mule.connectors/mule-vm-connector/2.0.0"/>
